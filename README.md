@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I am mbx3. A medical student interested in programming.
+## I am mbx3. A medical doctor interested in programming.
 ## I am familiar with Python and mql5 programming languages.
 <!--
 **mbx3/mbx3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
